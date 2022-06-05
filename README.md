@@ -3,4 +3,11 @@
 Currently I am learning <strong>frontend</strong>, and really wish to gain a lot of skills to be a one of the greatest web-developer 💪 <br/><br/>
 
 ### Languages and tools I work with:
-<code> <img src="[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM8AAAD0CAMAAAAL4oIDAAAADFBMVEX////39/f7+/v29vboy7JaAAAE40lEQVR4nO2d65LbMAiFfXn/d26zm53xRVjiCBDCnF+dNlb4jIwUcZIuaywtowMQVvL4VvL4VvL4VlSebXZdeZbJFYwnWn6Sx7euPOvogDoVjee6/iSPLyWPb914Ji/YwXi25HGt+DxzF7hoPGvyuFby+FaBZ+qCHYxnSx7XegPPzAUuGs+aPK5V4tlHB9WhaPnZg/EU8zPxAhSMZ0se13oHz7wFbsV41n0dob0e2IHh+OeKtus7WQnjqW54RvFUH+zDa2fIT5Xn8ByE4DkyMK5LHhlx4uLwjPL+ReOphfUWHs66Zam38Zxei15oKJTH6YaH9Viz8uOU57jtj8BzQuBcmTwSquGcomLxjClwyfMnlzy8VeQcokeejvzMyXN+MX7pUZrf7MF54A3P0KNVBZ6hR6unU07efJuNB94gmARO6ByICM/IXvI5Jh4PVeCi8Yycb108VMfEInBCTzzVuCiegQtQFw+BM5LnAvBuHocbnuQ5yOEG4ZFnwg1PMJ5LREwefxue5DnJ3YbnmWe+BTUazzX+5AnF427Do8SjdqI4ikdJvTzeWlraPNZH8rVwrvf39TzGntheHm8toGA87OmfPKbS57FdgJLn9heueGrR1Hl8bXjexnOLhs1jW+AMeEw3PJkf9hAmHK3BTMbDnyzJY1mwBXhcmcr5xRbIj2HBrsXSwlO9JwqHbDDP/Qo+j4JQnvuNSB4NReNBu34tPCNah5r5GcADN2EKwYfnGdB6T56v7nVk7vnWxGNfsAkcYLsD8aCtTnGeQl4RHnHPy2Ae9O1JyW0PfPCgA7bxwCcIs/IQ5RVeuASXU0keOD/KPObfOkuerwp1UXK+oTzEcGI8aAtImge5EOGhArDmKd1XSR60wBHbA+g5hniEN3DReIjRxOYbuuEBNwjwaW80nuI1gjzgfJPcHmA8sgtQNB5iMAc8685F2jb6R00d8DQGIjRMM0+/h6d62NPQha3eD0OeRya6v3gU9rEF4mn3INxGenpgxvFwWtyHNDWz/IYmxgN/zb6s/cPUNskG8XBDgwQF4ZcHe4iTJyKPhScpeX4ih8ay4KnhROMpx+CWBzx1xngsCpwpj4FHUZJnfIGrd8tFeX4H1MpS0wdcInCcZ2n9ZMbQ3pAYRZ4fJrk0sSwZWjwL50MnKfbJkCbPlwkX4pUp30GCR/akU5zlo/JoojwLe+rhHibi3knzfJnqYlSy0Ty/b/ecJoE3MOVZyDTxK1l5dBaPlOny9q59k+xpZBOe5ZQmSScnFbc6z0f/mcQS8xWPx/9/7vpunqE/AN0kYjmQ9uKYiZkf7zykRzJ5XOjtPN4LXDQeMuzkcSEuj/cNT7T8kJZPisd5wWbnxzcP7dFMHg9KHt8Fjo6a/BfBsyVZPR6/Pnd2hc7+BFU7d23oVLtJU8u5eFPn3UOaGvsWDCvoOCZGr4znjBjAxOz78Z0elkj8hh/gXOntRLWyQN1L0ImjXSHghjnuLFJLU1envNcpJY3UazgRcH7JtdwE3DNCTrZ+JCEnkJwzryNNgq4mSachVPQEvD9HiTsnWWmSt9ApOEEbC7lwYr5Sc7Y+I6n5NTWdukSaxE2NR2k7j7cbi641WN1JfXiaNoOfYjX56suHSTsxX9l8dcxOyeNbyeNbyeNbyeNbyeNbyeNbyeNb0Xj+ASCwY984FVNfAAAAAElFTkSuQmCC](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F464-4640079_html-html-icon-black-and-white-hd-png.png&imgrefurl=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhxJwhRo_html-html-icon-black-and-white-hd-png%2F&tbnid=Y-eSt_CvF40XcM&vet=12ahUKEwi49aqyyJX4AhUS6CoKHaF6BloQMygBegUIARC9AQ..i&docid=2MpgxperPioQjM&w=860&h=1016&q=html%20white%20logo&ved=2ahUKEwi49aqyyJX4AhUS6CoKHaF6BloQMygBegUIARC9AQ)" alt="html" /> </code>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Bootstrap</li>
+  <li>Sass<li/>
+  <li>JS</li>
+  <li>React</li>
+</ul>
