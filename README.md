@@ -7,7 +7,7 @@ Currently I am learning <strong>frontend</strong>, and really wish to gain a lot
   <li>HTML</li>
   <li>CSS</li>
   <li>Bootstrap</li>
-  <li>Sass<li/>
+  <li>Sass</li>
   <li>JS</li>
   <li>React</li>
 </ul>
