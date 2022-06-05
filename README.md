@@ -10,4 +10,6 @@ Currently I am learning <strong>frontend</strong>, and really wish to gain a lot
   <li>Sass</li>
   <li>JS</li>
   <li>React</li>
-</ul>
+</ul> <br/> <br/>
+
+<i>Location</i>: Tashkent.
