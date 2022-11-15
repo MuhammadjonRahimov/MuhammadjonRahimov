@@ -6,8 +6,9 @@ Currently I am learning <strong>frontend</strong>, and really wish to gain a lot
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Bootstrap</li>
   <li>Sass</li>
+  <li>Bootstrap</li>
+  <li>Tailwind CSS</li>
   <li>JS</li>
   <li>React</li>
 </ul> <br/> <br/>
